@@ -9,8 +9,8 @@ class Button extends React.Component {
 
   render() {
     let className = "component-button";
-    if (this.props.orange) {
-      className += " orange";
+    if (this.props.blue) {
+      className += " blue";
     }
     if (this.props.wide) {
       className += " wide";
@@ -31,7 +31,7 @@ class Button extends React.Component {
 }
 Button.propTypes = {
   name: PropTypes.string,
-  orange: PropTypes.bool,
+  blue: PropTypes.bool,
   wide: PropTypes.bool,
   clickHandler: PropTypes.func,
 };

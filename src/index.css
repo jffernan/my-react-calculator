@@ -10,6 +10,10 @@ body {
   height: 100%;
 }
 
+input:focus {
+    background-color: #87CEFA;
+}
+
 #root {
   height: 100%;
 }
