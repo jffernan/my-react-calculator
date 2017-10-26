@@ -1,6 +1,6 @@
 # my-react-calculator
 
-Welcome to My React Calculator app.  The app was created with create-react-app.  See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).  Thank you for using my app.
+Welcome to My React Calculator app.  The app was created with create-react-app.  See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).  Thank you for using my app.  Future TODOs are % button, respond to keyboard input, and add pie 3.14.
 
 ## Installation
 
