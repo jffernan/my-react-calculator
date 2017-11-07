@@ -2,6 +2,8 @@
 
 Welcome to My React Calculator app.  The app was created with create-react-app.  See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).  Thank you for using my app.  Future TODOs are % button, respond to keyboard input, and add pie 3.14.
 
+Visit my blog at https://github.com/jffernan/jffernan.github.io.
+
 ## Installation
 
 To use this app, clone from GitHub 'git clone https://github.com/jffernan/my-react-calculator', 'cd' to the new directory, then run 'npm install', and last, 'npm start' to launch your http server.
